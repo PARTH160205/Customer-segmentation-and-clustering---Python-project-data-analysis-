@@ -56,10 +56,12 @@ These clusters can help businesses design **targeted marketing strategies**.
 - Cluster visualization using K-Means  
 
 ## 📌 Future Improvements  
-- Include additional demographic or behavioral features.  
+- Include additional demographic or behavioral features.
 - Try advanced clustering algorithms (DBSCAN, Hierarchical Clustering).  
 - Build a dashboard to visualize segments interactively.
   
-## 🧑‍💻 Author  
+## 🧑‍💻 Author
 **Parth Inamdar**  
 [LinkedIn](https://www.linkedin.com/in/parthinamdar/) | [Kaggle](https://www.kaggle.com/parthinamdar1625)
+
+Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMGFiYmNhODUtMjAyMi00ODg0LTg1MzAtMzcwZDlmNDI4ODQ0IiwidCI6ImM4ZTQyNDhjLTcxNzQtNGIwZS04Y2Q4LTUzNGFhMDhkZjM5NSJ9
