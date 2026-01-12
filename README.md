@@ -64,4 +64,4 @@ These clusters can help businesses design **targeted marketing strategies**.
 **Parth Inamdar**  
 [LinkedIn](https://www.linkedin.com/in/parthinamdar/) | [Kaggle](https://www.kaggle.com/parthinamdar1625)
 
-Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMGFiYmNhODUtMjAyMi00ODg0LTg1MzAtMzcwZDlmNDI4ODQ0IiwidCI6ImM4ZTQyNDhjLTcxNzQtNGIwZS04Y2Q4LTUzNGFhMDhkZjM5NSJ9
+
